@@ -167,12 +167,12 @@ body {
 
 
 .bgverde{
-  background-color: #0695A7;
+  background-color: #3A96CD;
 }
 
 
 .bgazul{
-  background-color: #10334F;
+  background-color: #4F00A7;
 }
 
 
@@ -184,7 +184,7 @@ body {
 }
 
 h2 {
-  background-color: #0695A7;
+  background-color: #3A96CD;
   display: block;
   width: 30%;
   min-width: 300px;
@@ -272,7 +272,7 @@ footer{
   display: block;
   width: 100%;
   flex-wrap: wrap;
-  background-color: #0695A7;
+  background-color: #3A96CD;
   margin-top: 1em;
   -webkit-border-radius: 5px 5px 5px 5px;
   border-radius: 5px 5px 5px 5px;
@@ -362,9 +362,10 @@ transition: all 0.5s ease;}
     flex-wrap: wrap;
     box-sizing: border-box;
     align-items: center;
-    border-bottom: 1px solid color: rgba(84, 84, 84, 0.7);;
     padding: 1em;
-    font-size: 0.8em;}
+    font-size: 0.8em;
+    border-bottom: 1px solid color:rgba(84, 84, 84, 0.7);
+  }
 
   .texto-autorizacion{
     display: block;
@@ -406,7 +407,7 @@ transition: all 0.5s ease;}
     align-items: center;
     color: rgb(255, 255, 255);
     text-decoration: none;
-    background-color: #0695A7;
+    background-color: #3A96CD;
     font-size: 0.85em;
     padding-left: 0.8em;
     padding-right: 0.8em;
@@ -434,17 +435,17 @@ transition: all 0.5s ease;}
     color: rgb(255, 255, 255);}
 
   .terminos-condiciones a:link{
-    color: #0695A7;
+    color: #3A96CD;
     display: block;
     margin-left: 1em;
     text-align: center;
     font-size: 0.7em;}
 
   .terminos-condiciones a:visited{
-    color: #0695A7;}
+    color: #3A96CD;}
 
   .terminos-condiciones a:hover{
-    color: #0695A7;}
+    color: #3A96CD;}
 
   .terminos-condiciones a:active{}
 
@@ -537,10 +538,10 @@ transition: all 0.5s ease;}
 
       .btn-menu a:hover {
         color: rgb(255, 255, 255);
-        background-color: #0695A7;}
+        background-color: #3A96CD;}
 
       .btn-menu a:active {
-        color: #0695A7}
+        color: #3A96CD}
 
       .btn-menu2 a:link {
         display: flex;
@@ -549,7 +550,7 @@ transition: all 0.5s ease;}
         align-items: center;
         color: rgb(255, 255, 255);
         text-decoration: none;
-        background-color: #0695A7;
+        background-color: #3A96CD;
         font-size: 0.85em;
         padding-left: 0.8em;
         padding-right: 0.8em;
@@ -573,7 +574,7 @@ transition: all 0.5s ease;}
         background-color: #832990;}
 
       .btn-menu2 a:active {
-        color: #0695A7;}
+        color: #3A96CD;}
 
       .sizeicomenu {
         font-size: 0.9em;
@@ -619,7 +620,7 @@ padding: 1em;
     min-width: 80%;
     padding-left: 0.5em;
     text-align: left;
-    color: #0695A7;
+    color: #3A96CD;
     padding-top: 0.2em;
   }
 
@@ -661,7 +662,7 @@ justify-content: center;
     min-width: 80%;
     padding-left: 0.5em;
     text-align: left;
-    color: #0695A7;
+    color: #3A96CD;
     padding-top: 0.2em;
     text-align: center;
     margin-bottom: 0.2em;
@@ -714,7 +715,7 @@ transition: ease 0.3s all;
 .charla{
   display: flex;
   width: 100%;
-  background-color: #0695A7;
+  background-color: #3A96CD;
   box-sizing: border-box;
   padding: 1em;
   flex-wrap: wrap;
